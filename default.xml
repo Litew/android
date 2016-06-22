@@ -9,7 +9,7 @@
   <remote  name="github"
            fetch=".." />
 
-  <default revision="refs/heads/stable/cm-12.1-YOG3C"
+  <default revision="refs/heads/stable/cm-12.1-YOG4P"
            remote="github"
            sync-c="true"
            sync-j="4" />
