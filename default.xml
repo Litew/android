@@ -12,7 +12,7 @@
   <default revision="refs/heads/stable/cm-12.1-YOG4P"
            remote="github"
            sync-c="true"
-           sync-j="4" />
+           sync-j="8" />
 
   <project path="build" name="mer-hybris/android_build" groups="pdk,tradefed" revision="hybris-12.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
